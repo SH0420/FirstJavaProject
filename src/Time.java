@@ -1,0 +1,7 @@
+
+public class Time {
+ //Ω√, ∫–, √ 
+	int hour;
+	int minute;
+	int second;
+}
